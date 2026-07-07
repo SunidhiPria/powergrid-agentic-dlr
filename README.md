@@ -4,7 +4,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
 ![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-orange)
 ![Pandapower](https://img.shields.io/badge/Pandapower-Power%20Flow-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 An AI-driven decision support system that integrates **IEEE Std 738 thermal modeling**, **CrewAI multi-agent orchestration**, **Pandapower power-flow simulation**, and **Streamlit** to demonstrate **Dynamic Line Rating (DLR)** for intelligent transmission line congestion management and renewable energy integration.
 
@@ -95,7 +95,6 @@ powergrid-agentic-dlr
 ├── grid_engine.py
 ├── requirements.txt
 ├── README.md
-├── LICENSE
 └── screenshots
 ```
 
