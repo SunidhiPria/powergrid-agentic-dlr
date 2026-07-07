@@ -259,8 +259,3 @@ https://www.linkedin.com/in/sunidhi-priya-4b84a124a/
 
 https://github.com/SunidhiPria
 
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
